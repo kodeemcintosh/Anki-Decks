@@ -1,0 +1,214 @@
+---Regular Verbs---
+--'ar' verbs
+acabar: to complete, to finish:https://image.shutterstock.com/image-photo/hand-put-last-piece-jigsaw-260nw-446989765.jpg
+aceptar: to accept:https://img-aws.ehowcdn.com/340x221p/photos.demandstudios.com/getty/article/34/35/56568001.jpg
+afeitar: to shave:https://im.indiatimes.in/content/2014/Mar/1542076_1437739014.jpg
+amar: to love:http://static.oprah.com/images/o2/201405/201211-orig-deepak-chopra9-949x534.jpg
+ayudar: to help, to assist:https://addictionblog.org/cherrycake/wp-content/uploads/2014/11/Help-a-friend-with-addiction.jpg
+bailar: to dance:https://www.dancetime.com/wp-content/uploads/2016/11/Red-Black-Vertical-Couple-001_427x755.jpg
+bañar: to bathe, to wash:https://www.scarymommy.com/wp-content/uploads/2016/06/Child-Bath-Every-Night.jpg?w=700
+besar: to kiss:https://i.ytimg.com/vi/ZM4i1hXmHME/maxresdefault.jpg
+cambiar: to change:http://college.monster.com/nfs/college/attachment_images/0021/0756/change_crop380w.jpg?1301422618
+caminar: to walk:https://img.aws.livestrongcdn.com/ls-article-image-673/ds-photo/getty/article/106/210/146926262.jpg
+cantar: to sing:https://i.ytimg.com/vi/EkC1N3zijK4/hqdefault.jpg
+casarse: to marry, to wed:http://thefederalist.com/wp-content/uploads/2015/07/shutterstock_133378736-998x666.jpg
+cenar: to eat dinner/supper:https://images.parenting.mdpcdn.com/sites/parenting.com/files/styles/story_detail_enlarge/public/1100_story_family_dinner_together.jpg?itok=WJ5KSS31
+cocinar: to cook:https://hips.hearstapps.com/ame-prod-redonline-assets.s3.amazonaws.com/main/thumbs/20318/cooking-music-redonline.co.uk.jpg?crop=0.805xw:1xh;center,top&resize=480:*
+comprar: to buy:https://www.pehub.com/wp-content/uploads/2013/01/supermarket_shutterstock_120974125.jpg
+cortar: to cut:https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/7078/05/18222136/051114090-01-how-to-cut-citrus-segments_xlg.jpg
+cuidar: to guard:https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Buckingham-palace-guard-11279634947G5ru.jpg/220px-Buckingham-palace-guard-11279634947G5ru.jpg
+dejar: to leave:https://www.paychex.com/sites/default/files/styles/worx_large/public/5-signs-employee-is-going-to-leave.jpg?itok=JmZ92RPj
+desayunar: to eat breakfast:https://img.huffingtonpost.com/asset/56f43fdd1e00008700705432.jpeg?ops=scalefit_720_noupscale
+descansar: to rest:https://blog.hrhibiza.com/wp-content/uploads/2015/01/81748821-5.jpg
+desear: to wish, desire:
+dibujar: to draw:
+disfrutar: to enjoy:
+disgustar:- to disgust:
+duchar: to shower:
+dudar: to doubt:
+enamorarse: to fall in love:
+enfermarse: to get sick, to become ill:
+enojar: to anger:
+enseñar: to show, to teach:
+entrar: to enter:
+escuchar: to listen, to hear:
+estudiar: to study:
+fumar: to smoke:
+ganar: to win:
+gastar: to spend:
+gritar: to scream, to shout, to yell:
+gustar: to please, be pleasing:
+hablar: to speak, to talk:
+lastimar: to injure, to hurt:
+lavar: to wash:
+limpiar: to clean:
+llamar: to call:
+llevar: to take, to wear:
+llorar: to cry:
+mandar: to send, to command:
+manejar: to drive:
+mirar: to watch, to see, to look:
+molestar: to annoy, to bother:
+nadar: to swim:
+necesitar: to need:
+ocupar: to occupy:
+olvidar: to forget:
+participar: to participate:
+pasar: to pass time, to spend time:
+pintar: to paint:
+planchar: to iron:
+preguntar: to ask a question:
+preocuparse: to preoccupy, to concern:
+preparar: to prepare:
+prestar: to lend, to borrow:
+terminar: to terminate, to end:
+tomar: to drink, to take:
+trabajar: to work:
+usar: to use:
+viajar: to travel:
+visitar: to visit:
+voltear: to turn:
+vomitar: to vomit:
+
+--'er' verbs
+aprender: to learn:
+barrer: to sweep:
+beber: to drink:
+comer: to eat:
+comprender: to comprehend, to understand:
+correr: to run:
+deber: to owe, to ought to, should:
+depender: to depend:
+esconder: to hide:
+poseer: to own, to possess:
+romper: to break:
+sorprender: to surprise:
+temer: to fear, to be afraid of:
+toser: to cough:
+vender: to sell, to vend:
+
+--'ir' verbs
+abrir: to open:
+aburrir: to bore, to be boring:
+acudir: to attend, to answer a call:
+admitir: to admit, to permit:
+aplaudir: to applaud:
+asistir: to attend:
+cubrir: to cover:
+decidir: to decide:
+definir: to define:
+describir: to describe:
+discutir: to discuss:
+escribir: to write:
+existir: to exist:
+insistir: to insist:
+interrumpir: to interrupt:
+ocurrir: to occur:
+permitir: to permit, to allow:
+prohibir: to prohibit, to forbid:
+recibir recib-: to receive:
+subir: to rise, to climb:
+vivir: to live, to be alive:
+
+
+---Irregular Verbs---
+ser: to be (essential/permanent quality):
+haber: to have (to do something, auxiliary verb):
+estar: to be (health, location, state):
+tener: to have:
+hacer: to do, make:
+poder: to be able, can:
+decir: to say, tell:
+ir: to go:
+ver: to see:
+dar: to give:
+saber: to know (information):
+querer: to want, love:
+llegar: to arrive, come, reach:
+poner: to put, place, set:
+parecer: to seem, appear:
+creer: to believe:
+seguir: to follow, continue:
+encontrar: to find, encounter:
+venir: to come:
+pensar: to think:
+salir: to leave, go out:
+volver: to return, go back:
+conocer: to know (people, places):
+sentir:	to feel, regret:
+contar: to count, relate, tell:
+empezar: to begin, start:
+buscar: to search for, look for:
+escribir: to write:
+perder: to lose:
+producir: to produce:
+entender: to understand:
+pedir: to request, ask for:
+recordar: to remember, remind:
+aparecer: to appear, show up:
+conseguir: to get, obtain:
+comenzar: to begin, start, commence:
+servir: to serve:
+sacar: to take out, stick out:
+mantener: to maintain, get:
+leer: to read:
+caer: to fall:
+abrir: to open:
+oír: to hear:
+convertir: to convert, change:
+traer: to bring, to get, fetch, to carry:
+morir: to die:
+realizar: to achieve, attain, accomplish:
+suponer: to suppose:
+explicar: to explain:
+tocar: to touch, to play (an instrument):
+reconocer: to recognize:
+alcanzar: to reach, catch up:
+nacer: to be born:
+dirigir: to direct:
+utilizar: to use, utilize:
+pagar: to pay, pay for:
+jugar: to play (a game or sport):
+ofrecer: to offer:
+descubrir: to discover:
+repetir: to repeat:
+valer: to be worth:
+mostrar: to show:
+mover: to move:
+continuar: to continue:
+referir: to refer (to):
+acercar: to bring near:
+dedicar: to dedicate:
+cerrar: to close, shut:
+obtener: to obtain, get:
+indicar: to indicate:
+soler: to be accustomed to:
+detener: to stop, to hold up, delay, to arrest, detain:
+elegir: to elect, choose:
+proponer: to propose:
+demostrar: to demonstrate, show:
+significar: to signify, mean:
+reunir:	to gather, meet, collect:
+construir: to build, construct:
+desaparecer: to disappear:
+andar: to walk:
+preferir: to prefer:
+crecer: to grow (up):
+surgir: to arise, emerge, spring up, come out:
+entregar: to deliver, hand over:
+colocar: to locate, place:
+establecer: to establish:
+actuar: to act, perform, operate:
+acordar: to decide, resolve, agree (on):
+romper: to break:
+adquirir: to obtain, acquire, buy:
+lanzar: to throw, hurl, cast, fling:
+negar: to deny, refuse:
+avanzar: to advance, move forward:
+resolver: to solve, to resolve, to settle (a debt, matter):
+costar: to cost:
+exigir: to demand, require:
+recoger: to pick up:
+imponer: to impose, enforce:
+obligar: to oblige:
+aplicar: to apply:
